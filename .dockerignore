@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+*.md
+terminals
+snake_game.py
+.dockerignore
+docker-compose.yml
+render.yaml

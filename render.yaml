@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: snake-game
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /
